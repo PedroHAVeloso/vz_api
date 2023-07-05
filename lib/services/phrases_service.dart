@@ -1,5 +1,5 @@
 import 'dart:math';
-import 'package:vz_api/all_phrases_list.dart';
+import 'package:vz_api/utils/all_phrases_list.dart';
 
 /// Provém todas as interações da API com a lista de frases.
 class PhrasesService {
