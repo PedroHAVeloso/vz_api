@@ -26,7 +26,9 @@ Se o [Docker Desktop](https://www.docker.com/) estiver rodando, execute no termi
 
 Se você tiver o [Dart SDK](https://dart.dev/get-dart) e o [Dart Frog](https://dartfrog.vgv.dev/) instalados, execute no terminal:
 
-	$ dart_frog dev
+	$ dart pub get
+	
+    $ dart_frog dev
     
     Running on http://localhost:8080
 	
