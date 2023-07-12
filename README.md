@@ -2,7 +2,7 @@
 
 API em Dart, utilizando o framework [Dart Frog](https://dartfrog.vgv.dev/), que retorna frases aleatórias de 'velha do zap'.
 
-Parte do VZ APP, aplicativo em Flutter que exibe frases aleatórias de 'velha do zap' (*futuro*).
+Parte do [VZ APP](https://github.com/PedroHAVeloso/vz_app), aplicativo em Flutter que exibe frases aleatórias de 'velha do zap'.
 
 ### Funcionalidades:
 >- Retorna uma frase.
